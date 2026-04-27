@@ -1,0 +1,32 @@
+# Ambiente Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# Variáveis de ambiente (dados sensíveis)
+.env
+*.env
+
+# Dados (não versionar CSVs grandes)
+*.csv
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Docker
+*.log
