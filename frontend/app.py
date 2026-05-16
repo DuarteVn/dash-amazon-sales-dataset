@@ -321,7 +321,7 @@ with st.sidebar:
 
     # Menu de navegação
     nav_items = [
-        ("", "Overview",            "Página principal do dashboard",   True),
+        ("", "Overview",            "Dashboard",   True),
         ("", "Análise de Produtos", "Exploração detalhada por produto", False),
         ("", "Previsão de Vendas",  "Modelos preditivos de demanda",   False),
         ("", "Relatórios",          "Exportar e agendar relatórios",  False),
